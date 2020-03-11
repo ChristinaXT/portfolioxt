@@ -171,7 +171,7 @@ ul#nav li a {
    line-height: 32px;
 	text-decoration: none;
    text-align: left;
-   color: #fff;
+   color: #ECB8F7;
 
 	-webkit-transition: color .2s ease-in-out;
 	-ms-transition: color .2s ease-in-out;
@@ -182,7 +182,7 @@ ul#nav li a {
 }
 
 ul#nav li a:active { background-color: transparent !important; }
-ul#nav li.current a { color: #40EC1E; }
+ul#nav li.current a { color: #F9910B; }
 
 
 /* ------------------------------------------------------------------ */
