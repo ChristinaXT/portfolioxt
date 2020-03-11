@@ -122,7 +122,7 @@ header .scrolldown a {
    -o-transition: all .3s ease-in-out;
    transition: all .3s ease-in-out;
 }
-header .scrolldown a:hover { color: #F90B3A; }
+header .scrolldown a:hover { color: #0C45DC; }
 
 /* primary navigation
 --------------------------------------------------------------------- */
