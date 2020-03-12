@@ -23,13 +23,17 @@ export default class Resume extends Component {
             </p>
             <div className="bars">
               <ul className="skills">
-                <li><span className="bar-expand css" /><em>CSS</em></li>
-                <li><span className="bar-expand html5" /><em>HTML5</em></li>
-                <li><span className="bar-expand javascript" /><em>JavaScript</em></li>
-                <li><span className="bar-expand jquery" /><em>jQuery</em></li>
-                <li><span className="bar-expand wordpress" /><em>Wordpress</em></li>
-                <li><span className="bar-expand hubspot" /><em>HubSpot</em></li>
-                <li><span className="bar-expand ruby" /><em>Ruby on Rails</em></li>
+                <div className="left-skills">
+                  <li><span className="bar-expand css" /><em>CSS</em></li>
+                  <li><span className="bar-expand html5" /><em>HTML5</em></li>
+                  <li><span className="bar-expand javascript" /><em>JavaScript</em></li>
+                  <li><span className="bar-expand jquery" /><em>jQuery</em></li>
+                </div>
+                <div className="right-skills">
+                  <li><span className="bar-expand wordpress" /><em>Wordpress</em></li>
+                  <li><span className="bar-expand hubspot" /><em>HubSpot</em></li>
+                  <li><span className="bar-expand ruby" /><em>Ruby on Rails</em></li>
+                </div>
 
               </ul>
             </div>{/* end skill-bars */}
