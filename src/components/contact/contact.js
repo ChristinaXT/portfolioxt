@@ -12,6 +12,7 @@ export default class Contact extends Component {
             <p className="lead">Get in Touch</p>
           </div>
         </div>
+        
         <div className="row">
           <aside className="four columns footer-widgets">
             <div className="widget widget_contact">
